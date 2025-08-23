@@ -1,3 +1,6 @@
 .ipynb_checkpoints
 .Rproj
 .Rproj.user
+.idea
+.venv
+01_Getting_&_Knowing_Your_Data/World_Food_Facts/en.openfoodfacts.org.products.tsv
